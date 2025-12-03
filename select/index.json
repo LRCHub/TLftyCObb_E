@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Blue Valentine",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-03T06:18:59.646996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gypsy (Black-N-Blue Valentine)",
+      "artist": "Dangerous Toys",
+      "has_synced": true,
+      "path": "select/01_Gypsy_(Black-N-Blue_Valentine)_Dangerous_Toys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/02_Blue_Valentine_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Tom Waits",
+      "has_synced": false,
+      "path": "select/03_Blue_Valentine_Tom_Waits.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Waits, Tom",
+      "has_synced": false,
+      "path": "select/04_Blue_Valentine_Waits,_Tom.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Telenova",
+      "has_synced": false,
+      "path": "select/05_Blue_Valentine_Telenova.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Aine",
+      "has_synced": true,
+      "path": "select/06_Blue_Valentine_Aine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Nina",
+      "has_synced": true,
+      "path": "select/07_Blue_Valentine_Nina.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Valentine",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/08_Blue_Valentine_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BLUE VALENTINE",
+      "artist": "Nessa Barrett",
+      "has_synced": false,
+      "path": "select/09_BLUE_VALENTINE_Nessa_Barrett.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BLUE VALENTINE",
+      "artist": "Nessa Barrett",
+      "has_synced": true,
+      "path": "select/10_BLUE_VALENTINE_Nessa_Barrett.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tom Waits - Blue Valentine - 09 - A Sweet Little Bullet From A Pretty Blue Gun",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/11_Tom_Waits_-_Blue_Valentine_-_09_-_A_Sweet_Little_Bullet_From_A_Pretty_Blue_Gun_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tom Waits - Blue Valentine - 02 - Red Shoes By The Drugstore",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/12_Tom_Waits_-_Blue_Valentine_-_02_-_Red_Shoes_By_The_Drugstore_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gypsy (Black‐n‐Blue Valentine)",
+      "artist": "Dangerous Toys",
+      "has_synced": true,
+      "path": "select/13_Gypsy_(Black‐n‐Blue_Valentine)_Dangerous_Toys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blue Valentine (You Always Hurt The One You Love) (From \"Blue Valentine\")",
+      "artist": "Regency Movie Orchestra",
+      "has_synced": true,
+      "path": "select/14_Blue_Valentine_(You_Always_Hurt_The_One_You_Love)_(From__Blue_Valentine_)_Regency_Movie_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tom Waits - Blue Valentine - 07 - Whistlin' Past The Graveyard",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/15_Tom_Waits_-_Blue_Valentine_-_07_-_Whistlin'_Past_The_Graveyard_Tom_Waits.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blue Valentine",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Blue_Valentine_NMIXX.txt"
+    }
+  ]
+}
